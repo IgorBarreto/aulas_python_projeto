@@ -6,7 +6,7 @@
 ## 3- Calculo de área do quadrado
 ## 3- Calculo de área do circulo
 ## 4- Calculo do volume do circulo
-## 5-Menu => onde ele exibe as opções para o usuário escolher qual calculo ele quer realizar 
+## 5-Menu => onde ele exibe as opções para o usuário escolher qual calculo deseja realizar 
 ## E por fim uma opção para encerrar o programa
 
 # ESTRUTURA
