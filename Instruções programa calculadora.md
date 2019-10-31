@@ -1,4 +1,4 @@
-# CALCULADOR
+# CALCULADORA
 
 ##   O intuito deste projeto é desenvolver suas habilidades e conhecimento do que foiabordade até o momento, através do desenvolvimento de uma calculadora básica que  deverá conter as seguintes funcionalidade: 
 ## 1- Operações matematicas(soma, subtração, multiplicação, divisão).
